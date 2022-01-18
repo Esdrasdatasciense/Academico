@@ -1,2 +1,2 @@
 # Academico
-Repositório para atividades acadêmicas e extra-curriculares na linguagem python. 
+Repositório para atividades acadêmicas e extra-curriculares na linguagem python e c++ 
